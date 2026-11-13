@@ -2,7 +2,7 @@
 
 > **New:** apps can now be separate ELF programs with their own address space, run under a
 > preemptive scheduler and show up as files under `/Apps` in the explorer.
-> See [docs/MULTITASKING.md](docs/MULTITASKING.md).
+
 
 > A bare-metal x86_64 operating system built from scratch — no Linux, no POSIX, pure metal.
 
