@@ -8,7 +8,6 @@
 
 ![LightOS Boot](https://img.shields.io/badge/arch-x86%2032--bit-blue)
 ![Language](https://img.shields.io/badge/lang-C%2B%2B%20%2B%20ASM-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Boot](https://img.shields.io/badge/boot-GRUB%20Multiboot1-yellow)
 
 ---
